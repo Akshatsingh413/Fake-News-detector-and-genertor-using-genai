@@ -1,4 +1,4 @@
-# 📰 Fake News Generator & Detector using Transformers
+# 📰 Fake News Generator & Detector using Generative AI and NLP
 
 This project combines the power of **GPT-2** and **BERT** using Hugging Face's Transformers library to:
 
